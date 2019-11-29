@@ -1,4 +1,4 @@
-#Raspagem de dados Salas especiais.
+Raspagem de dados Salas especiais.
 
 Equipe: Davi Silva Martins das Neves e João Pedro Rabello Brasil de Mecenas
 
